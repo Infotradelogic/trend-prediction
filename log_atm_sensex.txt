@@ -1,0 +1,248 @@
+[8/11/2024, 10:07:24] TODAYS TREND::ATM only::ce-pe bid diff::1.55::difference_of_ce_pe_offer::-6.25 :::Sideways based upon bid and offer prices gaps
+[8/11/2024, 10:08:06] TODAYS TREND::ATM only::ce-pe bid diff::1.55::difference_of_ce_pe_offer::-6.25 :::Sideways based upon bid and offer prices gaps
+[8/11/2024, 10:08:46] TODAYS TREND::ATM only::ce-pe bid diff::2.4::difference_of_ce_pe_offer::0.05 :::Sideways based upon bid spread tolerance
+[8/11/2024, 10:09:35] TODAYS TREND::ATM only::ce-pe bid diff::25.35::difference_of_ce_pe_offer::21.85 :::Up
+[8/11/2024, 10:11:04] TODAYS TREND::ATM only::ce-pe bid diff::46.35::difference_of_ce_pe_offer::46.25 :::Up
+[8/11/2024, 10:11:46] TODAYS TREND::ATM only::ce-pe bid diff::13.9::difference_of_ce_pe_offer::14.25 :::Up
+[8/11/2024, 10:12:30] TODAYS TREND::ATM only::ce-pe bid diff::16.95::difference_of_ce_pe_offer::13.45 :::Up
+[8/11/2024, 10:13:16] TODAYS TREND::ATM only::ce-pe bid diff::16.95::difference_of_ce_pe_offer::13.45 :::Up
+[8/11/2024, 10:14:00] TODAYS TREND::ATM only::ce-pe bid diff::33.2::difference_of_ce_pe_offer::34 :::Up
+[8/11/2024, 10:14:42] TODAYS TREND::ATM only::ce-pe bid diff::-7.5::difference_of_ce_pe_offer::-9.65 :::Down
+[8/11/2024, 10:15:22] TODAYS TREND::ATM only::ce-pe bid diff::-29.6::difference_of_ce_pe_offer::-27.85 :::Down
+[8/11/2024, 10:16:06] TODAYS TREND::ATM only::ce-pe bid diff::-29.6::difference_of_ce_pe_offer::-27.85 :::Down
+[8/11/2024, 10:16:46] TODAYS TREND::ATM only::ce-pe bid diff::49.35::difference_of_ce_pe_offer::50.4 :::Up
+[8/11/2024, 10:17:35] TODAYS TREND::ATM only::ce-pe bid diff::-19.2::difference_of_ce_pe_offer::-19.2 :::Down
+[8/11/2024, 10:18:17] TODAYS TREND::ATM only::ce-pe bid diff::-42.85::difference_of_ce_pe_offer::-42.8 :::Down
+[8/11/2024, 10:19:13] TODAYS TREND::ATM only::ce-pe bid diff::-42.85::difference_of_ce_pe_offer::-42.8 :::Down
+[8/11/2024, 10:20:03] TODAYS TREND::ATM only::ce-pe bid diff::-32.5::difference_of_ce_pe_offer::-32.95 :::Down
+[8/11/2024, 10:20:47] TODAYS TREND::ATM only::ce-pe bid diff::-31.95::difference_of_ce_pe_offer::-32.75 :::Down
+[8/11/2024, 10:21:31] TODAYS TREND::ATM only::ce-pe bid diff::-2.45::difference_of_ce_pe_offer::-3.15 :::Sideways based upon bid spread tolerance
+[8/11/2024, 10:22:17] TODAYS TREND::ATM only::ce-pe bid diff::-9.1::difference_of_ce_pe_offer::-8.25 :::Down
+[8/11/2024, 10:23:01] TODAYS TREND::ATM only::ce-pe bid diff::-9.1::difference_of_ce_pe_offer::-8.25 :::Down
+[8/11/2024, 10:23:43] TODAYS TREND::ATM only::ce-pe bid diff::-23.55::difference_of_ce_pe_offer::-23.55 :::Down
+[8/11/2024, 10:24:28] TODAYS TREND::ATM only::ce-pe bid diff::-37.5::difference_of_ce_pe_offer::-39.15 :::Down
+[8/11/2024, 10:25:11] TODAYS TREND::ATM only::ce-pe bid diff::-37.5::difference_of_ce_pe_offer::-39.15 :::Down
+[8/11/2024, 10:26:04] TODAYS TREND::ATM only::ce-pe bid diff::-27.4::difference_of_ce_pe_offer::-25.7 :::Down
+[8/11/2024, 10:26:49] TODAYS TREND::ATM only::ce-pe bid diff::-32::difference_of_ce_pe_offer::-31.05 :::Down
+[8/11/2024, 10:27:31] TODAYS TREND::ATM only::ce-pe bid diff::39::difference_of_ce_pe_offer::37.4 :::Up
+[8/11/2024, 10:28:16] TODAYS TREND::ATM only::ce-pe bid diff::39::difference_of_ce_pe_offer::37.4 :::Up
+[8/11/2024, 10:29:01] TODAYS TREND::ATM only::ce-pe bid diff::-6.35::difference_of_ce_pe_offer::-8.55 :::Down
+[8/11/2024, 10:29:45] TODAYS TREND::ATM only::ce-pe bid diff::10.1::difference_of_ce_pe_offer::9.7 :::Up
+[8/11/2024, 10:30:26] TODAYS TREND::ATM only::ce-pe bid diff::-5.4::difference_of_ce_pe_offer::-5.6 :::Down
+[8/11/2024, 10:31:08] TODAYS TREND::ATM only::ce-pe bid diff::-5.4::difference_of_ce_pe_offer::-5.6 :::Down
+[8/11/2024, 10:31:51] TODAYS TREND::ATM only::ce-pe bid diff::14.9::difference_of_ce_pe_offer::13.6 :::Up
+[8/11/2024, 10:32:36] TODAYS TREND::ATM only::ce-pe bid diff::-0.95::difference_of_ce_pe_offer::-2.9 :::Sideways based upon bid spread tolerance
+[8/11/2024, 10:33:18] TODAYS TREND::ATM only::ce-pe bid diff::1.6::difference_of_ce_pe_offer::0.4 :::Sideways based upon bid spread tolerance
+[8/11/2024, 10:34:03] TODAYS TREND::ATM only::ce-pe bid diff::1.6::difference_of_ce_pe_offer::0.4 :::Sideways based upon bid spread tolerance
+[8/11/2024, 10:34:48] TODAYS TREND::ATM only::ce-pe bid diff::0.6::difference_of_ce_pe_offer::-1.8 :::Sideways based upon bid spread tolerance
+[8/11/2024, 10:35:30] TODAYS TREND::ATM only::ce-pe bid diff::-21.55::difference_of_ce_pe_offer::-21.3 :::Down
+[8/11/2024, 10:36:10] TODAYS TREND::ATM only::ce-pe bid diff::-21.55::difference_of_ce_pe_offer::-21.3 :::Down
+[8/11/2024, 10:36:53] TODAYS TREND::ATM only::ce-pe bid diff::-25.8::difference_of_ce_pe_offer::-27.6 :::Down
+[8/11/2024, 10:37:32] TODAYS TREND::ATM only::ce-pe bid diff::-25::difference_of_ce_pe_offer::-26.35 :::Down
+[8/11/2024, 10:38:11] TODAYS TREND::ATM only::ce-pe bid diff::-25::difference_of_ce_pe_offer::-26.35 :::Down
+[8/11/2024, 10:38:50] TODAYS TREND::ATM only::ce-pe bid diff::-9.5::difference_of_ce_pe_offer::-11.1 :::Down
+[8/11/2024, 10:39:30] TODAYS TREND::ATM only::ce-pe bid diff::-26.95::difference_of_ce_pe_offer::-26.55 :::Down
+[8/11/2024, 10:40:12] TODAYS TREND::ATM only::ce-pe bid diff::-26.95::difference_of_ce_pe_offer::-26.55 :::Down
+[8/11/2024, 10:40:51] TODAYS TREND::ATM only::ce-pe bid diff::-13.9::difference_of_ce_pe_offer::-15 :::Down
+[8/11/2024, 10:41:32] TODAYS TREND::ATM only::ce-pe bid diff::1.35::difference_of_ce_pe_offer::-0.05 :::Sideways based upon bid spread tolerance
+[8/11/2024, 10:42:13] TODAYS TREND::ATM only::ce-pe bid diff::1.35::difference_of_ce_pe_offer::-0.05 :::Sideways based upon bid spread tolerance
+[8/11/2024, 10:42:55] TODAYS TREND::ATM only::ce-pe bid diff::-12.35::difference_of_ce_pe_offer::-13.5 :::Down
+[8/11/2024, 10:43:37] TODAYS TREND::ATM only::ce-pe bid diff::-34.7::difference_of_ce_pe_offer::-34.2 :::Down
+[8/11/2024, 10:44:17] TODAYS TREND::ATM only::ce-pe bid diff::-38::difference_of_ce_pe_offer::-39 :::Down
+[8/11/2024, 10:44:59] TODAYS TREND::ATM only::ce-pe bid diff::-38::difference_of_ce_pe_offer::-39 :::Down
+[8/11/2024, 10:45:38] TODAYS TREND::ATM only::ce-pe bid diff::-34.65::difference_of_ce_pe_offer::-35.7 :::Down
+[8/11/2024, 10:46:21] TODAYS TREND::ATM only::ce-pe bid diff::41.35::difference_of_ce_pe_offer::38.95 :::Up
+[8/11/2024, 10:47:04] TODAYS TREND::ATM only::ce-pe bid diff::41.35::difference_of_ce_pe_offer::38.95 :::Up
+[8/11/2024, 10:47:45] TODAYS TREND::ATM only::ce-pe bid diff::45::difference_of_ce_pe_offer::44.45 :::Up
+[8/11/2024, 10:48:27] TODAYS TREND::ATM only::ce-pe bid diff::46.65::difference_of_ce_pe_offer::47.95 :::Up
+[8/11/2024, 10:49:08] TODAYS TREND::ATM only::ce-pe bid diff::46.65::difference_of_ce_pe_offer::47.95 :::Up
+[8/11/2024, 10:49:49] TODAYS TREND::ATM only::ce-pe bid diff::-37.7::difference_of_ce_pe_offer::-37.6 :::Down
+[8/11/2024, 10:51:53] TODAYS TREND::ATM only::ce-pe bid diff::-48.6::difference_of_ce_pe_offer::-49.2 :::Down
+[8/11/2024, 10:52:53] TODAYS TREND::ATM only::ce-pe bid diff::41.5::difference_of_ce_pe_offer::41.8 :::Up
+[8/11/2024, 10:53:36] TODAYS TREND::ATM only::ce-pe bid diff::43.95::difference_of_ce_pe_offer::42.75 :::Up
+[8/11/2024, 10:54:23] TODAYS TREND::ATM only::ce-pe bid diff::-33.65::difference_of_ce_pe_offer::-35.25 :::Down
+[8/11/2024, 10:55:07] TODAYS TREND::ATM only::ce-pe bid diff::-33.65::difference_of_ce_pe_offer::-35.25 :::Down
+[8/11/2024, 10:55:52] TODAYS TREND::ATM only::ce-pe bid diff::32.5::difference_of_ce_pe_offer::33.65 :::Up
+[8/11/2024, 10:56:37] TODAYS TREND::ATM only::ce-pe bid diff::42.95::difference_of_ce_pe_offer::43.25 :::Up
+[8/11/2024, 10:57:19] TODAYS TREND::ATM only::ce-pe bid diff::46.9::difference_of_ce_pe_offer::47.5 :::Up
+[8/11/2024, 10:58:03] TODAYS TREND::ATM only::ce-pe bid diff::46.9::difference_of_ce_pe_offer::47.5 :::Up
+[8/11/2024, 10:58:55] TODAYS TREND::ATM only::ce-pe bid diff::40.75::difference_of_ce_pe_offer::39.7 :::Up
+[8/11/2024, 11:00:03] TODAYS TREND::ATM only::ce-pe bid diff::-45.45::difference_of_ce_pe_offer::-46.35 :::Down
+[8/11/2024, 11:01:15] TODAYS TREND::ATM only::ce-pe bid diff::-33.55::difference_of_ce_pe_offer::-33.85 :::Down
+[8/11/2024, 11:01:59] TODAYS TREND::ATM only::ce-pe bid diff::-22.4::difference_of_ce_pe_offer::-23 :::Down
+[8/11/2024, 11:02:56] TODAYS TREND::ATM only::ce-pe bid diff::42.5::difference_of_ce_pe_offer::42.55 :::Up
+[8/11/2024, 11:03:48] TODAYS TREND::ATM only::ce-pe bid diff::27.65::difference_of_ce_pe_offer::28.05 :::Up
+[8/11/2024, 11:04:26] TODAYS TREND::ATM only::ce-pe bid diff::30.45::difference_of_ce_pe_offer::32.45 :::Up
+[8/11/2024, 11:05:09] TODAYS TREND::ATM only::ce-pe bid diff::30.45::difference_of_ce_pe_offer::32.45 :::Up
+[8/11/2024, 11:06:01] TODAYS TREND::ATM only::ce-pe bid diff::29.7::difference_of_ce_pe_offer::29.3 :::Up
+[8/11/2024, 11:06:59] TODAYS TREND::ATM only::ce-pe bid diff::25.25::difference_of_ce_pe_offer::24.25 :::Up
+[8/11/2024, 11:07:38] TODAYS TREND::ATM only::ce-pe bid diff::28.4::difference_of_ce_pe_offer::29 :::Up
+[8/11/2024, 11:08:17] TODAYS TREND::ATM only::ce-pe bid diff::28.4::difference_of_ce_pe_offer::29 :::Up
+[8/11/2024, 11:09:03] TODAYS TREND::ATM only::ce-pe bid diff::32.35::difference_of_ce_pe_offer::30.05 :::Up
+[8/11/2024, 11:10:09] TODAYS TREND::ATM only::ce-pe bid diff::48::difference_of_ce_pe_offer::47 :::Up
+[8/11/2024, 11:10:54] TODAYS TREND::ATM only::ce-pe bid diff::34.5::difference_of_ce_pe_offer::32.55 :::Up
+[8/11/2024, 11:12:14] TODAYS TREND::ATM only::ce-pe bid diff::43.25::difference_of_ce_pe_offer::42.05 :::Up
+[8/11/2024, 11:13:18] TODAYS TREND::ATM only::ce-pe bid diff::-41.6::difference_of_ce_pe_offer::-41.75 :::Down
+[8/11/2024, 11:14:39] TODAYS TREND::ATM only::ce-pe bid diff::47.2::difference_of_ce_pe_offer::46.85 :::Up
+[8/11/2024, 11:15:25] TODAYS TREND::ATM only::ce-pe bid diff::48.65::difference_of_ce_pe_offer::46.8 :::Up
+[8/11/2024, 11:16:31] TODAYS TREND::ATM only::ce-pe bid diff::-45.25::difference_of_ce_pe_offer::-46.45 :::Down
+[8/11/2024, 11:17:16] TODAYS TREND::ATM only::ce-pe bid diff::-45.25::difference_of_ce_pe_offer::-46.45 :::Down
+[8/11/2024, 11:18:01] TODAYS TREND::ATM only::ce-pe bid diff::36.45::difference_of_ce_pe_offer::37.4 :::Up
+[8/11/2024, 11:18:47] TODAYS TREND::ATM only::ce-pe bid diff::18.55::difference_of_ce_pe_offer::19.05 :::Up
+[8/11/2024, 11:19:59] TODAYS TREND::ATM only::ce-pe bid diff::11.4::difference_of_ce_pe_offer::11.15 :::Up
+[8/11/2024, 11:21:20] TODAYS TREND::ATM only::ce-pe bid diff::28.6::difference_of_ce_pe_offer::28.75 :::Up
+[8/11/2024, 11:22:20] TODAYS TREND::ATM only::ce-pe bid diff::30.45::difference_of_ce_pe_offer::29.15 :::Up
+[8/11/2024, 11:23:10] TODAYS TREND::ATM only::ce-pe bid diff::30.45::difference_of_ce_pe_offer::29.15 :::Up
+[8/11/2024, 11:24:16] TODAYS TREND::ATM only::ce-pe bid diff::6.75::difference_of_ce_pe_offer::7.65 :::Up
+[8/11/2024, 11:25:04] TODAYS TREND::ATM only::ce-pe bid diff::6.75::difference_of_ce_pe_offer::7.65 :::Up
+[8/11/2024, 11:25:43] TODAYS TREND::ATM only::ce-pe bid diff::-14.55::difference_of_ce_pe_offer::-19.55 :::Down
+[8/11/2024, 11:26:21] TODAYS TREND::ATM only::ce-pe bid diff::-15.75::difference_of_ce_pe_offer::-13.75 :::Down
+[8/11/2024, 11:27:01] TODAYS TREND::ATM only::ce-pe bid diff::-15.75::difference_of_ce_pe_offer::-13.75 :::Down
+[8/11/2024, 11:27:39] TODAYS TREND::ATM only::ce-pe bid diff::-11.05::difference_of_ce_pe_offer::-9.9 :::Down
+[8/11/2024, 11:28:17] TODAYS TREND::ATM only::ce-pe bid diff::-22.3::difference_of_ce_pe_offer::-24.35 :::Down
+[8/11/2024, 11:28:58] TODAYS TREND::ATM only::ce-pe bid diff::-22.3::difference_of_ce_pe_offer::-24.35 :::Down
+[8/11/2024, 11:29:40] TODAYS TREND::ATM only::ce-pe bid diff::-18.15::difference_of_ce_pe_offer::-17.2 :::Down
+[8/11/2024, 11:30:24] TODAYS TREND::ATM only::ce-pe bid diff::-21.5::difference_of_ce_pe_offer::-21.2 :::Down
+[8/11/2024, 11:31:14] TODAYS TREND::ATM only::ce-pe bid diff::-21.5::difference_of_ce_pe_offer::-21.2 :::Down
+[8/11/2024, 11:31:56] TODAYS TREND::ATM only::ce-pe bid diff::-11.8::difference_of_ce_pe_offer::-12.4 :::Down
+[8/11/2024, 11:32:39] TODAYS TREND::ATM only::ce-pe bid diff::-34.65::difference_of_ce_pe_offer::-34.9 :::Down
+[8/11/2024, 11:33:22] TODAYS TREND::ATM only::ce-pe bid diff::-32.75::difference_of_ce_pe_offer::-33.25 :::Down
+[8/11/2024, 11:34:06] TODAYS TREND::ATM only::ce-pe bid diff::-32.75::difference_of_ce_pe_offer::-33.25 :::Down
+[8/11/2024, 11:34:49] TODAYS TREND::ATM only::ce-pe bid diff::-18.7::difference_of_ce_pe_offer::-18.65 :::Down
+[8/11/2024, 11:35:33] TODAYS TREND::ATM only::ce-pe bid diff::-31.15::difference_of_ce_pe_offer::-31.6 :::Down
+[8/11/2024, 11:36:20] TODAYS TREND::ATM only::ce-pe bid diff::-33.1::difference_of_ce_pe_offer::-32.5 :::Down
+[8/11/2024, 11:37:02] TODAYS TREND::ATM only::ce-pe bid diff::-33.1::difference_of_ce_pe_offer::-32.5 :::Down
+[8/11/2024, 11:37:47] TODAYS TREND::ATM only::ce-pe bid diff::-23.95::difference_of_ce_pe_offer::-24.95 :::Down
+[8/11/2024, 11:38:32] TODAYS TREND::ATM only::ce-pe bid diff::-21.2::difference_of_ce_pe_offer::-23.65 :::Down
+[8/11/2024, 11:39:14] TODAYS TREND::ATM only::ce-pe bid diff::-21.2::difference_of_ce_pe_offer::-23.65 :::Down
+[8/11/2024, 11:39:59] TODAYS TREND::ATM only::ce-pe bid diff::49.5::difference_of_ce_pe_offer::50.1 :::Up
+[8/11/2024, 11:40:41] TODAYS TREND::ATM only::ce-pe bid diff::-47.6::difference_of_ce_pe_offer::-49.05 :::Down
+[8/11/2024, 11:43:40] TODAYS TREND::ATM only::ce-pe bid diff::-45.3::difference_of_ce_pe_offer::-45.05 :::Down
+[8/11/2024, 11:44:23] TODAYS TREND::ATM only::ce-pe bid diff::-40.65::difference_of_ce_pe_offer::-41.85 :::Down
+[8/11/2024, 11:45:07] TODAYS TREND::ATM only::ce-pe bid diff::-40.65::difference_of_ce_pe_offer::-41.85 :::Down
+[8/11/2024, 11:46:17] TODAYS TREND::ATM only::ce-pe bid diff::-41.3::difference_of_ce_pe_offer::-42.1 :::Down
+[8/11/2024, 11:47:02] TODAYS TREND::ATM only::ce-pe bid diff::-41.3::difference_of_ce_pe_offer::-42.1 :::Down
+[8/11/2024, 11:47:46] TODAYS TREND::ATM only::ce-pe bid diff::-38.9::difference_of_ce_pe_offer::-37.25 :::Down
+[8/11/2024, 11:48:31] TODAYS TREND::ATM only::ce-pe bid diff::-38.85::difference_of_ce_pe_offer::-40 :::Down
+[8/11/2024, 11:49:13] TODAYS TREND::ATM only::ce-pe bid diff::-38.85::difference_of_ce_pe_offer::-40 :::Down
+[8/11/2024, 11:49:53] TODAYS TREND::ATM only::ce-pe bid diff::46.65::difference_of_ce_pe_offer::47.45 :::Up
+[8/11/2024, 11:50:38] TODAYS TREND::ATM only::ce-pe bid diff::-47.45::difference_of_ce_pe_offer::-47.4 :::Down
+[8/11/2024, 11:51:23] TODAYS TREND::ATM only::ce-pe bid diff::37.3::difference_of_ce_pe_offer::37.6 :::Up
+[8/11/2024, 11:52:08] TODAYS TREND::ATM only::ce-pe bid diff::37.3::difference_of_ce_pe_offer::37.6 :::Up
+[8/11/2024, 11:52:51] TODAYS TREND::ATM only::ce-pe bid diff::14.8::difference_of_ce_pe_offer::14.5 :::Sideways based upon bid spread tolerance
+[8/11/2024, 11:53:36] TODAYS TREND::ATM only::ce-pe bid diff::26.85::difference_of_ce_pe_offer::28 :::Up
+[8/11/2024, 11:54:15] TODAYS TREND::ATM only::ce-pe bid diff::26.85::difference_of_ce_pe_offer::28 :::Up
+[8/11/2024, 11:54:58] TODAYS TREND::ATM only::ce-pe bid diff::27::difference_of_ce_pe_offer::28.4 :::Up
+[8/11/2024, 11:55:39] TODAYS TREND::ATM only::ce-pe bid diff::0.35::difference_of_ce_pe_offer::-0.15 :::Sideways based upon bid spread tolerance
+[8/11/2024, 11:56:18] TODAYS TREND::ATM only::ce-pe bid diff::-18.4::difference_of_ce_pe_offer::-19.05 :::Down
+[8/11/2024, 11:57:00] TODAYS TREND::ATM only::ce-pe bid diff::-18.4::difference_of_ce_pe_offer::-19.05 :::Down
+[8/11/2024, 11:57:38] TODAYS TREND::ATM only::ce-pe bid diff::-24.8::difference_of_ce_pe_offer::-24.85 :::Down
+[8/11/2024, 11:58:16] TODAYS TREND::ATM only::ce-pe bid diff::-25.5::difference_of_ce_pe_offer::-25.8 :::Down
+[8/11/2024, 11:58:53] TODAYS TREND::ATM only::ce-pe bid diff::-25.5::difference_of_ce_pe_offer::-25.8 :::Down
+[8/11/2024, 11:59:31] TODAYS TREND::ATM only::ce-pe bid diff::-29.15::difference_of_ce_pe_offer::-30.5 :::Down
+[8/11/2024, 12:00:10] TODAYS TREND::ATM only::ce-pe bid diff::-29.15::difference_of_ce_pe_offer::-30.5 :::Down
+[8/11/2024, 12:00:47] TODAYS TREND::ATM only::ce-pe bid diff::-42.5::difference_of_ce_pe_offer::-41.45 :::Down
+[8/11/2024, 12:01:24] TODAYS TREND::ATM only::ce-pe bid diff::-34.5::difference_of_ce_pe_offer::-34.1 :::Down
+[8/11/2024, 12:02:02] TODAYS TREND::ATM only::ce-pe bid diff::-34.5::difference_of_ce_pe_offer::-34.1 :::Down
+[8/11/2024, 12:02:41] TODAYS TREND::ATM only::ce-pe bid diff::-27.85::difference_of_ce_pe_offer::-28.4 :::Down
+[8/11/2024, 12:03:18] TODAYS TREND::ATM only::ce-pe bid diff::-9.4::difference_of_ce_pe_offer::-8.55 :::Sideways based upon bid spread tolerance
+[8/11/2024, 12:03:55] TODAYS TREND::ATM only::ce-pe bid diff::-9.4::difference_of_ce_pe_offer::-8.55 :::Sideways based upon bid spread tolerance
+[8/11/2024, 12:04:33] TODAYS TREND::ATM only::ce-pe bid diff::-18.25::difference_of_ce_pe_offer::-19.2 :::Down
+[8/11/2024, 12:05:12] TODAYS TREND::ATM only::ce-pe bid diff::-18.25::difference_of_ce_pe_offer::-19.2 :::Down
+[8/11/2024, 12:05:49] TODAYS TREND::ATM only::ce-pe bid diff::-19.15::difference_of_ce_pe_offer::-19.4 :::Down
+[8/11/2024, 12:06:26] TODAYS TREND::ATM only::ce-pe bid diff::-17.05::difference_of_ce_pe_offer::-16.65 :::Down
+[8/11/2024, 12:07:04] TODAYS TREND::ATM only::ce-pe bid diff::-17.05::difference_of_ce_pe_offer::-16.65 :::Down
+[8/11/2024, 12:07:40] TODAYS TREND::ATM only::ce-pe bid diff::-43.15::difference_of_ce_pe_offer::-43.85 :::Down
+[8/11/2024, 12:08:20] TODAYS TREND::ATM only::ce-pe bid diff::41.95::difference_of_ce_pe_offer::42.35 :::Up
+[8/11/2024, 12:09:01] TODAYS TREND::ATM only::ce-pe bid diff::41.95::difference_of_ce_pe_offer::42.35 :::Up
+[8/11/2024, 12:09:39] TODAYS TREND::ATM only::ce-pe bid diff::47.1::difference_of_ce_pe_offer::44.05 :::Up
+[8/11/2024, 12:10:17] TODAYS TREND::ATM only::ce-pe bid diff::42.95::difference_of_ce_pe_offer::44.05 :::Up
+[8/11/2024, 12:10:55] TODAYS TREND::ATM only::ce-pe bid diff::42.95::difference_of_ce_pe_offer::44.05 :::Up
+[8/11/2024, 12:11:34] TODAYS TREND::ATM only::ce-pe bid diff::42.15::difference_of_ce_pe_offer::42 :::Up
+[8/11/2024, 12:12:13] TODAYS TREND::ATM only::ce-pe bid diff::42.15::difference_of_ce_pe_offer::42 :::Up
+[8/11/2024, 12:12:52] TODAYS TREND::ATM only::ce-pe bid diff::-44.35::difference_of_ce_pe_offer::-44.05 :::Down
+[8/11/2024, 12:13:30] TODAYS TREND::ATM only::ce-pe bid diff::-20.75::difference_of_ce_pe_offer::-21.1 :::Down
+[8/11/2024, 12:14:06] TODAYS TREND::ATM only::ce-pe bid diff::-20.75::difference_of_ce_pe_offer::-21.1 :::Down
+[8/11/2024, 12:14:45] TODAYS TREND::ATM only::ce-pe bid diff::-26.1::difference_of_ce_pe_offer::-26.6 :::Down
+[8/11/2024, 12:15:20] TODAYS TREND::ATM only::ce-pe bid diff::-33.55::difference_of_ce_pe_offer::-32.2 :::Down
+[8/11/2024, 12:22:55] TODAYS TREND::ATM only::ce-pe bid diff::14.65::difference_of_ce_pe_offer::16.65 :::Up
+[8/11/2024, 12:23:33] TODAYS TREND::ATM only::ce-pe bid diff::8::difference_of_ce_pe_offer::10.6 :::Sideways based upon bid spread tolerance
+[8/11/2024, 12:24:16] TODAYS TREND::ATM only::ce-pe bid diff::8::difference_of_ce_pe_offer::10.6 :::Sideways based upon bid spread tolerance
+[8/11/2024, 12:24:56] TODAYS TREND::ATM only::ce-pe bid diff::-5.5::difference_of_ce_pe_offer::-6.6 :::Sideways based upon bid spread tolerance
+[8/11/2024, 12:25:36] TODAYS TREND::ATM only::ce-pe bid diff::-21.2::difference_of_ce_pe_offer::-22.45 :::Down
+[8/11/2024, 12:26:13] TODAYS TREND::ATM only::ce-pe bid diff::-21.2::difference_of_ce_pe_offer::-22.45 :::Down
+[8/11/2024, 12:26:53] TODAYS TREND::ATM only::ce-pe bid diff::-16.55::difference_of_ce_pe_offer::-17.3 :::Down
+[8/11/2024, 12:27:33] TODAYS TREND::ATM only::ce-pe bid diff::3.7::difference_of_ce_pe_offer::4.35 :::Sideways based upon bid spread tolerance
+[8/11/2024, 12:28:13] TODAYS TREND::ATM only::ce-pe bid diff::3.7::difference_of_ce_pe_offer::4.35 :::Sideways based upon bid spread tolerance
+[8/11/2024, 12:28:51] TODAYS TREND::ATM only::ce-pe bid diff::-2::difference_of_ce_pe_offer::-1.85 :::Sideways based upon bid spread tolerance
+[8/11/2024, 12:29:30] TODAYS TREND::ATM only::ce-pe bid diff::-5.15::difference_of_ce_pe_offer::-4.25 :::Sideways based upon bid spread tolerance
+[8/11/2024, 12:30:11] TODAYS TREND::ATM only::ce-pe bid diff::-5.15::difference_of_ce_pe_offer::-4.25 :::Sideways based upon bid spread tolerance
+[8/11/2024, 12:30:51] TODAYS TREND::ATM only::ce-pe bid diff::-14.25::difference_of_ce_pe_offer::-13.8 :::Sideways based upon bid spread tolerance
+[8/11/2024, 12:31:29] TODAYS TREND::ATM only::ce-pe bid diff::-7.15::difference_of_ce_pe_offer::-6.9 :::Sideways based upon bid spread tolerance
+[8/11/2024, 12:32:07] TODAYS TREND::ATM only::ce-pe bid diff::-7.15::difference_of_ce_pe_offer::-6.9 :::Sideways based upon bid spread tolerance
+[8/11/2024, 12:32:45] TODAYS TREND::ATM only::ce-pe bid diff::11.6::difference_of_ce_pe_offer::12 :::Sideways based upon bid spread tolerance
+[8/11/2024, 12:33:44] TODAYS TREND::ATM only::ce-pe bid diff::26.35::difference_of_ce_pe_offer::26.05 :::Up
+[8/11/2024, 12:34:47] TODAYS TREND::ATM only::ce-pe bid diff::33.8::difference_of_ce_pe_offer::33.95 :::Up
+[8/11/2024, 12:35:45] TODAYS TREND::ATM only::ce-pe bid diff::-46.8::difference_of_ce_pe_offer::-47.4 :::Down
+[8/11/2024, 12:36:23] TODAYS TREND::ATM only::ce-pe bid diff::-42.95::difference_of_ce_pe_offer::-43.9 :::Down
+[8/11/2024, 12:37:01] TODAYS TREND::ATM only::ce-pe bid diff::-42.95::difference_of_ce_pe_offer::-43.9 :::Down
+[8/11/2024, 12:37:40] TODAYS TREND::ATM only::ce-pe bid diff::48.15::difference_of_ce_pe_offer::47.75 :::Up
+[8/11/2024, 12:38:19] TODAYS TREND::ATM only::ce-pe bid diff::-31.25::difference_of_ce_pe_offer::-32.5 :::Down
+[8/11/2024, 12:38:55] TODAYS TREND::ATM only::ce-pe bid diff::-31.25::difference_of_ce_pe_offer::-32.5 :::Down
+[8/11/2024, 12:39:32] TODAYS TREND::ATM only::ce-pe bid diff::-38::difference_of_ce_pe_offer::-38.6 :::Down
+[8/11/2024, 12:40:11] TODAYS TREND::ATM only::ce-pe bid diff::-38::difference_of_ce_pe_offer::-38.6 :::Down
+[8/11/2024, 12:40:53] TODAYS TREND::ATM only::ce-pe bid diff::-33.05::difference_of_ce_pe_offer::-32.75 :::Down
+[8/11/2024, 12:41:32] TODAYS TREND::ATM only::ce-pe bid diff::-33.05::difference_of_ce_pe_offer::-33.45 :::Down
+[8/11/2024, 12:42:10] TODAYS TREND::ATM only::ce-pe bid diff::-33.05::difference_of_ce_pe_offer::-33.45 :::Down
+[8/11/2024, 12:42:52] TODAYS TREND::ATM only::ce-pe bid diff::-25.95::difference_of_ce_pe_offer::-25.6 :::Down
+[8/11/2024, 12:43:30] TODAYS TREND::ATM only::ce-pe bid diff::-21.6::difference_of_ce_pe_offer::-22.3 :::Down
+[8/11/2024, 12:44:06] TODAYS TREND::ATM only::ce-pe bid diff::-21.6::difference_of_ce_pe_offer::-22.3 :::Down
+[8/11/2024, 12:44:46] TODAYS TREND::ATM only::ce-pe bid diff::-18.55::difference_of_ce_pe_offer::-19.9 :::Down
+[8/11/2024, 12:45:24] TODAYS TREND::ATM only::ce-pe bid diff::-2.6::difference_of_ce_pe_offer::-4.1 :::Sideways based upon bid spread tolerance
+[8/11/2024, 12:46:04] TODAYS TREND::ATM only::ce-pe bid diff::-2.6::difference_of_ce_pe_offer::-4.1 :::Sideways based upon bid spread tolerance
+[8/11/2024, 12:46:43] TODAYS TREND::ATM only::ce-pe bid diff::-13.8::difference_of_ce_pe_offer::-15.05 :::Down
+[8/11/2024, 12:47:25] TODAYS TREND::ATM only::ce-pe bid diff::-40.15::difference_of_ce_pe_offer::-41.4 :::Down
+[8/11/2024, 12:48:08] TODAYS TREND::ATM only::ce-pe bid diff::-40.15::difference_of_ce_pe_offer::-41.4 :::Down
+[8/11/2024, 12:48:51] TODAYS TREND::ATM only::ce-pe bid diff::-31.75::difference_of_ce_pe_offer::-32.45 :::Down
+[8/11/2024, 12:49:30] TODAYS TREND::ATM only::ce-pe bid diff::-44.95::difference_of_ce_pe_offer::-46.6 :::Down
+[8/11/2024, 12:50:10] TODAYS TREND::ATM only::ce-pe bid diff::-44.95::difference_of_ce_pe_offer::-46.6 :::Down
+[8/11/2024, 12:50:52] TODAYS TREND::ATM only::ce-pe bid diff::-40.9::difference_of_ce_pe_offer::-40.55 :::Down
+[8/11/2024, 12:51:32] TODAYS TREND::ATM only::ce-pe bid diff::-39.2::difference_of_ce_pe_offer::-40.25 :::Down
+[8/11/2024, 12:52:13] TODAYS TREND::ATM only::ce-pe bid diff::-39.2::difference_of_ce_pe_offer::-40.25 :::Down
+[8/11/2024, 12:52:53] TODAYS TREND::ATM only::ce-pe bid diff::-36.5::difference_of_ce_pe_offer::-36.6 :::Down
+[8/11/2024, 12:53:32] TODAYS TREND::ATM only::ce-pe bid diff::-34::difference_of_ce_pe_offer::-31.95 :::Down
+[8/11/2024, 12:54:11] TODAYS TREND::ATM only::ce-pe bid diff::-34::difference_of_ce_pe_offer::-31.95 :::Down
+[8/11/2024, 12:54:52] TODAYS TREND::ATM only::ce-pe bid diff::-39::difference_of_ce_pe_offer::-39.4 :::Down
+[8/11/2024, 12:55:34] TODAYS TREND::ATM only::ce-pe bid diff::-36.15::difference_of_ce_pe_offer::-36.6 :::Down
+[8/11/2024, 12:56:15] TODAYS TREND::ATM only::ce-pe bid diff::-36.15::difference_of_ce_pe_offer::-36.6 :::Down
+[8/11/2024, 12:56:55] TODAYS TREND::ATM only::ce-pe bid diff::-22.8::difference_of_ce_pe_offer::-23 :::Down
+[8/11/2024, 12:57:37] TODAYS TREND::ATM only::ce-pe bid diff::-17.25::difference_of_ce_pe_offer::-17.6 :::Down
+[8/11/2024, 12:58:21] TODAYS TREND::ATM only::ce-pe bid diff::-24.15::difference_of_ce_pe_offer::-26.2 :::Down
+[8/11/2024, 12:59:12] TODAYS TREND::ATM only::ce-pe bid diff::-24.15::difference_of_ce_pe_offer::-26.2 :::Down
+[8/11/2024, 12:59:55] TODAYS TREND::ATM only::ce-pe bid diff::-30.85::difference_of_ce_pe_offer::-33.15 :::Down
+[8/11/2024, 13:00:39] TODAYS TREND::ATM only::ce-pe bid diff::-18.15::difference_of_ce_pe_offer::-18.8 :::Down
+[8/11/2024, 13:01:51] TODAYS TREND::ATM only::ce-pe bid diff::-19.7::difference_of_ce_pe_offer::-20.85 :::Down
+[8/11/2024, 13:02:45] TODAYS TREND::ATM only::ce-pe bid diff::-26.3::difference_of_ce_pe_offer::-25.4 :::Down
+[8/11/2024, 13:03:35] TODAYS TREND::ATM only::ce-pe bid diff::-23.25::difference_of_ce_pe_offer::-22.7 :::Down
+[8/11/2024, 13:04:25] TODAYS TREND::ATM only::ce-pe bid diff::-29.2::difference_of_ce_pe_offer::-27.75 :::Down
+[8/11/2024, 13:05:17] TODAYS TREND::ATM only::ce-pe bid diff::-13.65::difference_of_ce_pe_offer::-12.85 :::Sideways based upon bid spread tolerance
+[8/11/2024, 13:06:02] TODAYS TREND::ATM only::ce-pe bid diff::-13.65::difference_of_ce_pe_offer::-12.85 :::Sideways based upon bid spread tolerance
+[8/11/2024, 13:06:51] TODAYS TREND::ATM only::ce-pe bid diff::-10.45::difference_of_ce_pe_offer::-10.4 :::Sideways based upon bid spread tolerance
+[8/11/2024, 13:07:44] TODAYS TREND::ATM only::ce-pe bid diff::-21.75::difference_of_ce_pe_offer::-23.95 :::Down
+[8/11/2024, 13:08:34] TODAYS TREND::ATM only::ce-pe bid diff::-6.15::difference_of_ce_pe_offer::-7.55 :::Sideways based upon bid spread tolerance
+[8/11/2024, 13:09:21] TODAYS TREND::ATM only::ce-pe bid diff::4.55::difference_of_ce_pe_offer::5.4 :::Sideways based upon bid spread tolerance
+[8/11/2024, 13:10:03] TODAYS TREND::ATM only::ce-pe bid diff::4.55::difference_of_ce_pe_offer::5.4 :::Sideways based upon bid spread tolerance
+[8/11/2024, 13:10:44] TODAYS TREND::ATM only::ce-pe bid diff::14.1::difference_of_ce_pe_offer::13.1 :::Sideways based upon bid spread tolerance
+[8/11/2024, 13:11:29] TODAYS TREND::ATM only::ce-pe bid diff::48.7::difference_of_ce_pe_offer::48.5 :::Up
+[8/11/2024, 13:12:19] TODAYS TREND::ATM only::ce-pe bid diff::47.15::difference_of_ce_pe_offer::47.9 :::Up
+[8/11/2024, 13:13:04] TODAYS TREND::ATM only::ce-pe bid diff::47.15::difference_of_ce_pe_offer::47.9 :::Up
+[8/11/2024, 13:13:48] TODAYS TREND::ATM only::ce-pe bid diff::42.65::difference_of_ce_pe_offer::45.25 :::Up
+[8/11/2024, 13:14:31] TODAYS TREND::ATM only::ce-pe bid diff::-43.15::difference_of_ce_pe_offer::-44.35 :::Down
+[8/11/2024, 13:15:13] TODAYS TREND::ATM only::ce-pe bid diff::-43.15::difference_of_ce_pe_offer::-44.35 :::Down
+[8/11/2024, 13:16:04] TODAYS TREND::ATM only::ce-pe bid diff::-38.1::difference_of_ce_pe_offer::-39.6 :::Down
+[8/11/2024, 13:16:53] TODAYS TREND::ATM only::ce-pe bid diff::40.5::difference_of_ce_pe_offer::39.95 :::Up
+[8/11/2024, 13:17:35] TODAYS TREND::ATM only::ce-pe bid diff::34.7::difference_of_ce_pe_offer::34.7 :::Up
+[8/11/2024, 13:18:18] TODAYS TREND::ATM only::ce-pe bid diff::43.6::difference_of_ce_pe_offer::43.3 :::Up
+[8/11/2024, 13:19:03] TODAYS TREND::ATM only::ce-pe bid diff::43.6::difference_of_ce_pe_offer::43.3 :::Up
+[8/11/2024, 13:19:52] TODAYS TREND::ATM only::ce-pe bid diff::-47.65::difference_of_ce_pe_offer::-48.45 :::Down
+[8/11/2024, 13:20:35] TODAYS TREND::ATM only::ce-pe bid diff::43.1::difference_of_ce_pe_offer::43.75 :::Up

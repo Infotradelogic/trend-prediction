@@ -1,0 +1,664 @@
+[7/11/2024, 03:14:42] TODAYS TREND :::::::::::::::::::::::::::: Up
+[7/11/2024, 03:15:03] TODAYS TREND :::::::::::::::::::::::::::: Up
+[7/11/2024, 03:15:22] TODAYS TREND :::::::::::::::::::::::::::: Up
+[7/11/2024, 03:15:41] TODAYS TREND :::::::::::::::::::::::::::: Up
+[7/11/2024, 03:16:00] TODAYS TREND :::::::::::::::::::::::::::: Up
+[7/11/2024, 03:16:19] TODAYS TREND :::::::::::::::::::::::::::: Up
+[7/11/2024, 03:17:41] TODAYS TREND :::::::::::::::::::::::::::: Up
+[7/11/2024, 03:18:00] TODAYS TREND :::::::::::::::::::::::::::: Up
+[7/11/2024, 03:18:20] TODAYS TREND :::::::::::::::::::::::::::: Up
+[7/11/2024, 03:18:39] TODAYS TREND :::::::::::::::::::::::::::: Up
+[7/11/2024, 03:19:00] TODAYS TREND :::::::::::::::::::::::::::: Up
+[7/11/2024, 03:19:19] TODAYS TREND :::::::::::::::::::::::::::: Up
+[7/11/2024, 03:20:05] TODAYS TREND :::::::::::::::::::::::::::: Up
+[7/11/2024, 03:20:26] TODAYS TREND :::::::::::::::::::::::::::: Up
+[7/11/2024, 03:20:45] TODAYS TREND :::::::::::::::::::::::::::: Up
+[7/11/2024, 03:21:05] TODAYS TREND :::::::::::::::::::::::::::: Up
+[7/11/2024, 03:22:39] TODAYS TREND :::::::::::::::::::::::::::: Up
+[7/11/2024, 03:22:59] TODAYS TREND :::::::::::::::::::::::::::: Up
+[7/11/2024, 03:25:30] TODAYS TREND :::::::::::::::::::::::::::: Up
+[7/11/2024, 03:25:50] TODAYS TREND :::::::::::::::::::::::::::: Up
+[7/11/2024, 03:26:09] TODAYS TREND :::::::::::::::::::::::::::: Up
+[7/11/2024, 03:27:46] TODAYS TREND :::::::::::::::::::::::::::: Up
+[7/11/2024, 03:28:05] TODAYS TREND :::::::::::::::::::::::::::: Up
+[7/11/2024, 03:28:27] TODAYS TREND :::::::::::::::::::::::::::: Up
+[7/11/2024, 03:28:48] TODAYS TREND :::::::::::::::::::::::::::: Up
+[7/11/2024, 03:29:08] TODAYS TREND :::::::::::::::::::::::::::: Up
+[7/11/2024, 03:29:29] TODAYS TREND :::::::::::::::::::::::::::: Up
+[7/11/2024, 03:30:04] TODAYS TREND :::::::::::::::::::::::::::: Up
+[7/11/2024, 03:30:25] TODAYS TREND :::::::::::::::::::::::::::: Up
+[7/11/2024, 03:30:44] TODAYS TREND :::::::::::::::::::::::::::: Up
+[7/11/2024, 03:31:02] TODAYS TREND :::::::::::::::::::::::::::: Up
+[7/11/2024, 03:37:29] TODAYS TREND :::::::::::::::::::::::::::: Up
+[7/11/2024, 03:37:51] TODAYS TREND :::::::::::::::::::::::::::: Up
+[7/11/2024, 03:38:33] TODAYS TREND :::::::::::::::::::::::::::: Up
+[7/11/2024, 03:38:55] TODAYS TREND :::::::::::::::::::::::::::: Up
+[7/11/2024, 03:40:01] TODAYS TREND :::::::::::::::::::::::::::: Down
+[7/11/2024, 03:40:22] TODAYS TREND :::::::::::::::::::::::::::: Down
+[7/11/2024, 03:42:29] TODAYS TREND :::::::::::::::::::::::::::: Sideways
+[7/11/2024, 03:42:48] TODAYS TREND :::::::::::::::::::::::::::: Sideways
+[7/11/2024, 03:45:19] TODAYS TREND ::::::::For Expiry::2026-06-25::::::::is:::::::: Sideways
+[7/11/2024, 03:46:30] TODAYS TREND ::::::::for::2026-06-25:::::::::::::::::: Sideways
+[7/11/2024, 03:46:49] TODAYS TREND ::::::::for::2026-06-25:::::::::::::::::: Sideways
+[7/11/2024, 03:47:56] TODAYS TREND :::::For Expiry:::::2026-06-25::::::::: Sideways
+[7/11/2024, 03:48:15] TODAYS TREND :::::For Expiry:::::2026-06-25::::::::: Sideways
+[7/11/2024, 03:48:59] TODAYS TREND :::::For Expiry:::::2026-06-25::::is::::: Sideways
+[7/11/2024, 03:49:17] TODAYS TREND :::::For Expiry:::::2026-06-25::::is::::: Sideways
+[7/11/2024, 03:49:35] TODAYS TREND :::::For Expiry:::::2026-06-25::::is::::: Sideways
+[7/11/2024, 03:49:54] TODAYS TREND :::::For Expiry:::::2026-06-25::::is::::: Sideways
+[7/11/2024, 03:50:51] TODAYS TREND :::::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 03:51:12] TODAYS TREND :::::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 09:07:11] TODAYS TREND :::::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 09:07:33] TODAYS TREND :::::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 09:07:56] TODAYS TREND :::::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 09:12:12] TODAYS TREND :::::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 09:12:33] TODAYS TREND :::::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 09:14:15] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 09:14:35] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 09:14:57] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 09:15:20] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 09:15:41] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 09:16:01] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 09:16:23] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:19:39] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:19:59] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:20:20] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:20:40] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:21:00] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:22:07] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:22:28] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 09:22:48] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 09:24:27] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:24:46] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:26:20] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 09:28:18] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:28:40] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:28:59] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:29:21] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:29:39] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:30:00] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:30:23] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:30:45] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:31:05] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:31:27] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:32:33] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:33:06] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:33:39] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:34:13] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:34:49] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:35:21] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:35:50] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:36:20] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:36:54] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:37:25] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:38:02] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:38:33] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:39:10] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:39:46] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:40:22] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:40:59] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:41:35] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:42:09] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:43:02] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:43:51] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:44:30] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:45:05] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:45:42] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:46:17] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:46:56] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:47:37] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:48:12] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:48:50] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 09:49:29] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:50:09] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:50:42] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 09:51:18] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:51:48] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:52:17] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:53:34] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:54:04] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:54:44] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:55:16] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:56:00] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:56:42] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:57:25] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:58:10] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 09:58:50] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 09:59:22] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 10:00:38] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 10:01:41] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 10:02:27] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 10:02:55] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 10:04:26] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 10:05:04] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 10:05:33] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 10:06:04] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 10:06:32] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 10:07:05] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 10:07:38] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 10:08:08] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 10:08:49] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 10:09:45] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 10:10:43] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 10:11:45] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 10:15:38] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 10:16:14] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 10:16:48] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 10:17:28] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 10:42:07] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 10:42:45] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 10:43:23] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 10:44:01] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 10:44:39] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 10:45:17] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 10:45:57] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 10:46:36] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 10:50:06] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 10:50:45] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 10:51:24] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 10:52:03] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 10:52:42] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 10:53:22] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 10:54:00] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 10:54:40] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 10:55:21] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 10:56:02] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 10:56:45] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 10:57:20] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 10:57:55] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 10:58:29] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 10:59:05] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 10:59:40] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 11:18:20] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 11:18:55] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 11:19:33] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 11:20:16] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 11:20:53] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 11:21:27] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 11:22:03] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 11:22:38] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 11:23:16] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 11:23:51] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 11:24:31] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 11:25:10] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 11:25:48] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 11:26:26] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 11:27:05] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 11:27:39] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 11:33:09] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 11:33:43] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 11:34:20] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 11:34:56] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 11:35:30] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 11:36:05] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 11:36:41] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 11:37:15] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 11:37:50] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 11:38:24] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 11:38:59] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 11:39:35] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 11:40:10] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 11:40:44] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 11:41:19] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 11:41:55] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 11:42:31] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 11:51:34] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 12:00:41] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 12:01:29] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 12:02:12] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 12:02:58] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 12:03:37] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 12:05:31] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 12:06:11] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 12:06:53] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 12:08:31] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 12:09:15] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 12:09:56] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 12:10:44] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 12:11:28] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 12:12:18] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 12:14:29] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 12:15:12] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 12:16:00] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 12:16:52] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 12:17:32] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 12:18:21] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 12:19:00] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 12:19:41] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 13:32:47] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 13:33:29] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 13:34:14] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 13:35:13] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 13:36:05] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 13:36:46] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 13:37:31] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 13:38:17] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 13:39:01] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 13:39:44] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 13:40:25] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 13:41:06] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 13:41:51] TODAYS TREND multiple strikes::10:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 14:38:52] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Sideways
+[7/11/2024, 14:39:33] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 14:40:14] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 14:40:57] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 14:41:38] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 14:42:21] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 14:43:05] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 14:43:46] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 14:44:24] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 14:45:06] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 14:45:45] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 14:46:24] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 14:46:59] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 14:47:40] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 14:48:20] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 14:48:55] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 14:49:35] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 14:50:10] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 14:50:50] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 14:51:28] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 14:52:04] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 14:52:38] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 14:53:16] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 14:53:54] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 14:54:32] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 14:55:07] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 14:55:44] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 14:56:23] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 14:57:21] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 14:57:59] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 14:58:35] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 14:59:14] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 14:59:58] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 15:00:33] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 15:01:08] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 15:01:44] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 15:02:20] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 15:02:58] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 15:03:39] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 15:04:18] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 15:04:53] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 15:05:29] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 15:06:09] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 15:06:52] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 15:07:27] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 15:08:04] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 15:08:40] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 15:09:28] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 15:10:10] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 15:10:52] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 15:11:43] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 15:12:27] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 15:13:12] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 15:13:57] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 15:14:43] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 15:15:30] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 15:16:13] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 15:16:57] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 15:17:41] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 15:18:25] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Down
+[7/11/2024, 15:19:22] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 15:20:05] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 15:20:54] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 15:21:37] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 15:22:29] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 15:23:27] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 15:24:10] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 15:24:57] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 15:25:38] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 15:26:18] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 15:27:14] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 15:27:59] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 15:28:48] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Up
+[7/11/2024, 15:29:38] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Sideways
+[7/11/2024, 15:30:20] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Sideways
+[7/11/2024, 15:31:04] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Sideways
+[7/11/2024, 15:31:47] TODAYS TREND multiple strikes::5:::For Expiry:::::2024-11-07::::is::::: Sideways
+[8/11/2024, 07:35:54] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Up
+[8/11/2024, 07:36:34] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Up
+[8/11/2024, 07:37:14] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Up
+[8/11/2024, 07:37:56] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Up
+[8/11/2024, 07:43:49] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Up
+[8/11/2024, 07:44:31] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Up
+[8/11/2024, 07:45:12] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Up
+[8/11/2024, 07:45:55] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Up
+[8/11/2024, 07:46:37] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Up
+[8/11/2024, 07:47:22] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Up
+[8/11/2024, 07:48:01] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Up
+[8/11/2024, 07:48:42] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Up
+[8/11/2024, 07:49:26] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Up
+[8/11/2024, 07:50:07] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Up
+[8/11/2024, 07:50:49] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Up
+[8/11/2024, 07:51:34] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Up
+[8/11/2024, 07:52:15] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Up
+[8/11/2024, 07:52:58] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Up
+[8/11/2024, 07:53:42] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Up
+[8/11/2024, 07:54:23] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Up
+[8/11/2024, 07:55:04] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Up
+[8/11/2024, 07:55:44] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Up
+[8/11/2024, 07:56:25] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Up
+[8/11/2024, 07:57:01] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Up
+[8/11/2024, 07:57:38] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Up
+[8/11/2024, 07:58:15] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Up
+[8/11/2024, 07:58:51] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Up
+[8/11/2024, 07:59:31] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Up
+[8/11/2024, 08:00:07] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Up
+[8/11/2024, 08:00:46] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Up
+[8/11/2024, 08:01:25] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Up
+[8/11/2024, 08:02:05] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Up
+[8/11/2024, 08:02:50] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Up
+[8/11/2024, 08:03:27] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Up
+[8/11/2024, 08:04:05] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Up
+[8/11/2024, 08:17:26] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Sideways based upon bid spread tolerance
+[8/11/2024, 08:18:03] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Sideways based upon bid spread tolerance
+[8/11/2024, 08:18:42] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Sideways based upon bid spread tolerance
+[8/11/2024, 08:19:21] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Sideways based upon bid spread tolerance
+[8/11/2024, 08:20:00] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Sideways based upon bid spread tolerance
+[8/11/2024, 08:20:40] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Sideways based upon bid spread tolerance
+[8/11/2024, 08:21:23] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Sideways based upon bid spread tolerance
+[8/11/2024, 08:22:06] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Sideways based upon bid spread tolerance
+[8/11/2024, 08:22:46] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Sideways based upon bid spread tolerance
+[8/11/2024, 08:23:26] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Sideways based upon bid spread tolerance
+[8/11/2024, 09:17:36] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Sideways based upon bid spread tolerance
+[8/11/2024, 09:18:13] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Sideways based upon bid spread tolerance
+[8/11/2024, 09:18:49] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Sideways based upon bid spread tolerance
+[8/11/2024, 09:19:24] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Up
+[8/11/2024, 09:20:03] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Up
+[8/11/2024, 09:20:39] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Up
+[8/11/2024, 09:21:18] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Sideways based upon bid spread tolerance
+[8/11/2024, 09:21:53] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Sideways based upon bid spread tolerance
+[8/11/2024, 09:28:53] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Down
+[8/11/2024, 09:29:32] TODAYS TREND multiple strikes::3:::For Expiry:::::2024-11-14::::is::::: Up
+[8/11/2024, 09:30:57] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::is:: Down
+[8/11/2024, 09:31:42] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::is:: Down
+[8/11/2024, 09:32:31] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::is:: Up
+[8/11/2024, 09:33:05] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::is:: Up
+[8/11/2024, 09:33:44] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::is:: Sideways based upon bid spread tolerance
+[8/11/2024, 09:34:21] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::is:: Down
+[8/11/2024, 09:35:00] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::is:: Down
+[8/11/2024, 09:35:37] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::is:: Up
+[8/11/2024, 09:36:13] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::is:: Up
+[8/11/2024, 09:36:50] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::is:: Down
+[8/11/2024, 09:37:38] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::is:: Up
+[8/11/2024, 09:38:22] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::is:: Up
+[8/11/2024, 09:39:06] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::is:: Up
+[8/11/2024, 09:39:49] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::is:: Down
+[8/11/2024, 09:40:30] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::is:: Up
+[8/11/2024, 09:41:11] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::is:: Up
+[8/11/2024, 09:41:48] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::is:: Down
+[8/11/2024, 09:42:25] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::is:: Sideways based upon bid spread tolerance
+[8/11/2024, 09:43:03] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::is:: Sideways based upon bid spread tolerance
+[8/11/2024, 09:43:40] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::is:: Up
+[8/11/2024, 09:44:16] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::is:: Sideways based upon bid spread tolerance
+[8/11/2024, 09:44:58] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::is:: Sideways based upon bid spread tolerance
+[8/11/2024, 09:51:09] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-25.23::diff of avg offer price is::-25.27:: Down
+[8/11/2024, 09:51:49] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::12.85::diff of avg offer price is::12.93:: Up
+[8/11/2024, 09:52:32] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-7.04::diff of avg offer price is::-7.02:: Down
+[8/11/2024, 09:53:10] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-7.04::diff of avg offer price is::-7.02:: Down
+[8/11/2024, 09:53:48] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::24.19::diff of avg offer price is::24.44:: Up
+[8/11/2024, 09:54:28] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::0.44::diff of avg offer price is::0.44:: Sideways based upon bid spread tolerance
+[8/11/2024, 09:55:11] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::0.44::diff of avg offer price is::0.44:: Sideways based upon bid spread tolerance
+[8/11/2024, 09:55:51] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::4.19::diff of avg offer price is::4.21:: Sideways based upon bid spread tolerance
+[8/11/2024, 09:56:30] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-5.76::diff of avg offer price is::-5.76:: Down
+[8/11/2024, 09:57:10] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-5.76::diff of avg offer price is::-5.76:: Down
+[8/11/2024, 09:57:53] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::13::diff of avg offer price is::13.05:: Up
+[8/11/2024, 09:58:32] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::1.95::diff of avg offer price is::1.91:: Sideways based upon bid spread tolerance
+[8/11/2024, 09:59:11] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::1.95::diff of avg offer price is::1.91:: Sideways based upon bid spread tolerance
+[8/11/2024, 09:59:51] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::10.89::diff of avg offer price is::10.96:: Up
+[8/11/2024, 10:00:31] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::16.43::diff of avg offer price is::16.5:: Up
+[8/11/2024, 10:01:11] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::16.43::diff of avg offer price is::16.5:: Up
+[8/11/2024, 10:01:49] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-2.25::diff of avg offer price is::-2.21:: Sideways based upon bid spread tolerance
+[8/11/2024, 10:02:29] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-9.51::diff of avg offer price is::-9.43:: Down
+[8/11/2024, 10:07:22] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::1.21::diff of avg offer price is::1.22:: Sideways based upon bid spread tolerance
+[8/11/2024, 10:08:06] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::1.21::diff of avg offer price is::1.22:: Sideways based upon bid spread tolerance
+[8/11/2024, 10:08:45] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::3.64::diff of avg offer price is::3.67:: Sideways based upon bid spread tolerance
+[8/11/2024, 10:09:36] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::9.49::diff of avg offer price is::9.56:: Up
+[8/11/2024, 10:10:26] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::18.33::diff of avg offer price is::18.36:: Up
+[8/11/2024, 10:11:10] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::18.33::diff of avg offer price is::18.36:: Up
+[8/11/2024, 10:11:52] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::5.84::diff of avg offer price is::5.86:: Up
+[8/11/2024, 10:12:34] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::5.23::diff of avg offer price is::5.28:: Up
+[8/11/2024, 10:13:21] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::14::diff of avg offer price is::13.98:: Up
+[8/11/2024, 10:14:05] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::14::diff of avg offer price is::13.98:: Up
+[8/11/2024, 10:14:46] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-18.42::diff of avg offer price is::-18.49:: Down
+[8/11/2024, 10:15:25] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::23.58::diff of avg offer price is::23.64:: Up
+[8/11/2024, 10:16:06] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::23.58::diff of avg offer price is::23.64:: Up
+[8/11/2024, 10:16:46] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::18.49::diff of avg offer price is::18.55:: Up
+[8/11/2024, 10:17:34] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-22.11::diff of avg offer price is::-22.12:: Down
+[8/11/2024, 10:18:18] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::9.95::diff of avg offer price is::16.46:: Up
+[8/11/2024, 10:19:13] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::19.41::diff of avg offer price is::19.53:: Up
+[8/11/2024, 10:20:04] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::24.62::diff of avg offer price is::24.71:: Up
+[8/11/2024, 10:20:48] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-24.64::diff of avg offer price is::-24.68:: Down
+[8/11/2024, 10:21:31] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-13.28::diff of avg offer price is::-13.36:: Down
+[8/11/2024, 10:22:17] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-13.46::diff of avg offer price is::-13.65:: Down
+[8/11/2024, 10:22:59] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-15.72::diff of avg offer price is::-15.76:: Down
+[8/11/2024, 10:23:42] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-20.6::diff of avg offer price is::-20.67:: Down
+[8/11/2024, 10:24:26] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-25.78::diff of avg offer price is::-25.82:: Down
+[8/11/2024, 10:25:13] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-25.78::diff of avg offer price is::-25.82:: Down
+[8/11/2024, 10:26:06] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-20.53::diff of avg offer price is::-20.55:: Down
+[8/11/2024, 10:26:49] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::24.1::diff of avg offer price is::24.14:: Up
+[8/11/2024, 10:27:31] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::18.62::diff of avg offer price is::18.65:: Up
+[8/11/2024, 10:28:15] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::18.62::diff of avg offer price is::18.65:: Up
+[8/11/2024, 10:29:01] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::2.5::diff of avg offer price is::2.63:: Sideways based upon bid spread tolerance
+[8/11/2024, 10:29:44] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::7.68::diff of avg offer price is::7.69:: Up
+[8/11/2024, 10:30:26] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::3.51::diff of avg offer price is::3.59:: Sideways based upon bid spread tolerance
+[8/11/2024, 10:31:08] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::3.51::diff of avg offer price is::3.59:: Sideways based upon bid spread tolerance
+[8/11/2024, 10:31:52] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::11.19::diff of avg offer price is::11.21:: Up
+[8/11/2024, 10:32:36] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::4.2::diff of avg offer price is::4.23:: Sideways based upon bid spread tolerance
+[8/11/2024, 10:33:19] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::7.9::diff of avg offer price is::7.96:: Up
+[8/11/2024, 10:34:03] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::7.9::diff of avg offer price is::7.96:: Up
+[8/11/2024, 10:34:48] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::7.76::diff of avg offer price is::7.74:: Up
+[8/11/2024, 10:35:25] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-1.61::diff of avg offer price is::-1.54:: Sideways based upon bid spread tolerance
+[8/11/2024, 10:36:05] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-1.61::diff of avg offer price is::-1.54:: Sideways based upon bid spread tolerance
+[8/11/2024, 10:36:47] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-2.91::diff of avg offer price is::-2.91:: Sideways based upon bid spread tolerance
+[8/11/2024, 10:37:26] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::1.46::diff of avg offer price is::1.44:: Sideways based upon bid spread tolerance
+[8/11/2024, 10:38:05] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::1.46::diff of avg offer price is::1.44:: Sideways based upon bid spread tolerance
+[8/11/2024, 10:38:44] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::3.36::diff of avg offer price is::3.36:: Sideways based upon bid spread tolerance
+[8/11/2024, 10:39:25] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-5.01::diff of avg offer price is::-5.02:: Down
+[8/11/2024, 10:40:06] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-5.01::diff of avg offer price is::-5.02:: Down
+[8/11/2024, 10:40:45] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::1.75::diff of avg offer price is::1.79:: Sideways based upon bid spread tolerance
+[8/11/2024, 10:41:25] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::7.19::diff of avg offer price is::7.17:: Up
+[8/11/2024, 10:42:05] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::7.19::diff of avg offer price is::7.17:: Up
+[8/11/2024, 10:42:45] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::2.93::diff of avg offer price is::2.96:: Sideways based upon bid spread tolerance
+[8/11/2024, 10:43:24] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-8.77::diff of avg offer price is::-8.78:: Down
+[8/11/2024, 10:44:02] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-8.77::diff of avg offer price is::-8.78:: Down
+[8/11/2024, 10:44:43] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-6.04::diff of avg offer price is::-6.07:: Down
+[8/11/2024, 10:45:22] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-9.34::diff of avg offer price is::-9.38:: Down
+[8/11/2024, 10:46:03] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-9.34::diff of avg offer price is::-9.38:: Down
+[8/11/2024, 10:46:44] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-12.34::diff of avg offer price is::-12.31:: Down
+[8/11/2024, 10:47:24] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-11.26::diff of avg offer price is::-11.24:: Down
+[8/11/2024, 10:48:05] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-11.26::diff of avg offer price is::-11.24:: Down
+[8/11/2024, 10:48:46] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-12.18::diff of avg offer price is::-12.15:: Down
+[8/11/2024, 10:49:24] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-7.68::diff of avg offer price is::-7.66:: Down
+[8/11/2024, 10:50:14] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-7.68::diff of avg offer price is::-7.66:: Down
+[8/11/2024, 10:51:52] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-10.06::diff of avg offer price is::-10.14:: Down
+[8/11/2024, 10:53:07] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-16.8::diff of avg offer price is::-16.85:: Down
+[8/11/2024, 10:53:45] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-16.14::diff of avg offer price is::-16.19:: Down
+[8/11/2024, 10:54:31] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-6.31::diff of avg offer price is::-6.34:: Down
+[8/11/2024, 10:55:10] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-6.31::diff of avg offer price is::-6.34:: Down
+[8/11/2024, 10:55:51] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-20.9::diff of avg offer price is::-20.94:: Down
+[8/11/2024, 10:56:36] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-11.28::diff of avg offer price is::-11.2:: Down
+[8/11/2024, 10:57:16] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-11.28::diff of avg offer price is::-11.2:: Down
+[8/11/2024, 10:58:01] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-13.45::diff of avg offer price is::-13.46:: Down
+[8/11/2024, 10:58:50] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-16::diff of avg offer price is::-15.99:: Down
+[8/11/2024, 10:59:56] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-12.27::diff of avg offer price is::-12.29:: Down
+[8/11/2024, 11:00:44] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-7.1::diff of avg offer price is::-7.09:: Down
+[8/11/2024, 11:01:33] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-6.39::diff of avg offer price is::-6.39:: Down
+[8/11/2024, 11:02:17] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-6.39::diff of avg offer price is::-6.39:: Down
+[8/11/2024, 11:03:06] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-18.71::diff of avg offer price is::-18.78:: Down
+[8/11/2024, 11:04:07] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-23.41::diff of avg offer price is::-23.43:: Down
+[8/11/2024, 11:04:48] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-21.17::diff of avg offer price is::-21.17:: Down
+[8/11/2024, 11:05:26] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-24.01::diff of avg offer price is::-24.06:: Down
+[8/11/2024, 11:06:12] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-24.01::diff of avg offer price is::-24.06:: Down
+[8/11/2024, 11:07:14] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::24.29::diff of avg offer price is::24.34:: Up
+[8/11/2024, 11:07:57] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::24.31::diff of avg offer price is::24.42:: Up
+[8/11/2024, 11:08:36] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-22.72::diff of avg offer price is::-22.79:: Down
+[8/11/2024, 11:09:46] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-18.31::diff of avg offer price is::-18.44:: Down
+[8/11/2024, 11:10:48] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-24.34::diff of avg offer price is::-24.36:: Down
+[8/11/2024, 11:12:57] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-18.94::diff of avg offer price is::-18.96:: Down
+[8/11/2024, 11:14:20] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-17.98::diff of avg offer price is::-17.98:: Down
+[8/11/2024, 11:15:14] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-19.44::diff of avg offer price is::-19.56:: Down
+[8/11/2024, 11:16:16] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-17.49::diff of avg offer price is::-17.56:: Down
+[8/11/2024, 11:17:08] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-17.49::diff of avg offer price is::-17.56:: Down
+[8/11/2024, 11:17:55] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::23.11::diff of avg offer price is::23.14:: Up
+[8/11/2024, 11:18:42] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::17.59::diff of avg offer price is::17.58:: Up
+[8/11/2024, 11:19:46] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::15.83::diff of avg offer price is::15.9:: Up
+[8/11/2024, 11:20:36] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::24.84::diff of avg offer price is::24.86:: Up
+[8/11/2024, 11:21:34] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::21.06::diff of avg offer price is::21.12:: Up
+[8/11/2024, 11:22:25] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::22.88::diff of avg offer price is::22.87:: Up
+[8/11/2024, 11:23:17] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::17.94::diff of avg offer price is::17.94:: Up
+[8/11/2024, 11:24:34] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::18.29::diff of avg offer price is::18.35:: Up
+[8/11/2024, 11:25:12] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::18.29::diff of avg offer price is::18.35:: Up
+[8/11/2024, 11:25:48] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::7.06::diff of avg offer price is::7.01:: Up
+[8/11/2024, 11:26:29] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::6.33::diff of avg offer price is::6.36:: Up
+[8/11/2024, 11:27:07] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::6.33::diff of avg offer price is::6.36:: Up
+[8/11/2024, 11:27:46] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::12.53::diff of avg offer price is::12.57:: Up
+[8/11/2024, 11:28:24] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::3.48::diff of avg offer price is::3.49:: Sideways based upon bid spread tolerance
+[8/11/2024, 11:29:03] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::3.48::diff of avg offer price is::3.49:: Sideways based upon bid spread tolerance
+[8/11/2024, 11:29:41] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::8.12::diff of avg offer price is::8.16:: Up
+[8/11/2024, 11:30:23] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::7.14::diff of avg offer price is::7.14:: Up
+[8/11/2024, 11:31:13] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::7.14::diff of avg offer price is::7.14:: Up
+[8/11/2024, 11:31:56] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::11.37::diff of avg offer price is::11.41:: Up
+[8/11/2024, 11:32:38] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-0.26::diff of avg offer price is::-0.29:: Sideways based upon bid spread tolerance
+[8/11/2024, 11:33:22] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::1.89::diff of avg offer price is::1.86:: Sideways based upon bid spread tolerance
+[8/11/2024, 11:34:06] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::1.89::diff of avg offer price is::1.86:: Sideways based upon bid spread tolerance
+[8/11/2024, 11:34:49] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::8.06::diff of avg offer price is::8.05:: Up
+[8/11/2024, 11:35:34] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::1.66::diff of avg offer price is::1.66:: Sideways based upon bid spread tolerance
+[8/11/2024, 11:36:19] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-0.54::diff of avg offer price is::-0.47:: Sideways based upon bid spread tolerance
+[8/11/2024, 11:37:03] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-0.54::diff of avg offer price is::-0.47:: Sideways based upon bid spread tolerance
+[8/11/2024, 11:37:47] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::3.08::diff of avg offer price is::3.03:: Sideways based upon bid spread tolerance
+[8/11/2024, 11:38:31] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::2.99::diff of avg offer price is::2.96:: Sideways based upon bid spread tolerance
+[8/11/2024, 11:39:13] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::2.99::diff of avg offer price is::2.96:: Sideways based upon bid spread tolerance
+[8/11/2024, 11:39:58] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-5.44::diff of avg offer price is::-5.47:: Down
+[8/11/2024, 11:40:43] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-4.06::diff of avg offer price is::-4.01:: Sideways based upon bid spread tolerance
+[8/11/2024, 11:43:40] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-2.79::diff of avg offer price is::-2.81:: Sideways based upon bid spread tolerance
+[8/11/2024, 11:44:22] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-2.68::diff of avg offer price is::-2.69:: Sideways based upon bid spread tolerance
+[8/11/2024, 11:45:06] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-2.68::diff of avg offer price is::-2.69:: Sideways based upon bid spread tolerance
+[8/11/2024, 11:46:17] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-2.43::diff of avg offer price is::-2.4:: Sideways based upon bid spread tolerance
+[8/11/2024, 11:47:00] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-3.99::diff of avg offer price is::-3.96:: Sideways based upon bid spread tolerance
+[8/11/2024, 11:47:44] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::1.01::diff of avg offer price is::0.99:: Sideways based upon bid spread tolerance
+[8/11/2024, 11:48:29] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-3.11::diff of avg offer price is::-3.06:: Sideways based upon bid spread tolerance
+[8/11/2024, 11:49:12] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-3.11::diff of avg offer price is::-3.06:: Sideways based upon bid spread tolerance
+[8/11/2024, 11:49:54] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-8.03::diff of avg offer price is::-8.09:: Down
+[8/11/2024, 11:50:38] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-7.61::diff of avg offer price is::-7.73:: Down
+[8/11/2024, 11:51:22] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-9.04::diff of avg offer price is::-9.01:: Down
+[8/11/2024, 11:52:04] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-9.04::diff of avg offer price is::-9.01:: Down
+[8/11/2024, 11:52:47] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-18.18::diff of avg offer price is::-18.2:: Down
+[8/11/2024, 11:53:33] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-12.58::diff of avg offer price is::-12.61:: Down
+[8/11/2024, 11:54:15] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-12.58::diff of avg offer price is::-12.61:: Down
+[8/11/2024, 11:54:57] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-14.96::diff of avg offer price is::-14.99:: Down
+[8/11/2024, 11:55:42] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-22.81::diff of avg offer price is::-22.86:: Down
+[8/11/2024, 11:56:20] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::13.35::diff of avg offer price is::13.35:: Up
+[8/11/2024, 11:57:00] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::13.35::diff of avg offer price is::13.35:: Up
+[8/11/2024, 11:57:37] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::14.16::diff of avg offer price is::14.24:: Up
+[8/11/2024, 11:58:14] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::14.16::diff of avg offer price is::14.24:: Up
+[8/11/2024, 11:58:52] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::12.07::diff of avg offer price is::12.06:: Up
+[8/11/2024, 11:59:30] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::16.97::diff of avg offer price is::16.98:: Up
+[8/11/2024, 12:00:09] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::16.97::diff of avg offer price is::16.98:: Up
+[8/11/2024, 12:00:46] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::11.16::diff of avg offer price is::11.12:: Up
+[8/11/2024, 12:01:21] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::13.21::diff of avg offer price is::13.15:: Up
+[8/11/2024, 12:01:57] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::13.21::diff of avg offer price is::13.15:: Up
+[8/11/2024, 12:02:37] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::14.12::diff of avg offer price is::14.2:: Up
+[8/11/2024, 12:03:13] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::14.12::diff of avg offer price is::14.2:: Up
+[8/11/2024, 12:03:52] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::19.27::diff of avg offer price is::19.29:: Up
+[8/11/2024, 12:04:31] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::15.21::diff of avg offer price is::15.24:: Up
+[8/11/2024, 12:05:10] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::15.21::diff of avg offer price is::15.24:: Up
+[8/11/2024, 12:05:45] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::18.33::diff of avg offer price is::18.36:: Up
+[8/11/2024, 12:06:23] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::17.01::diff of avg offer price is::17.12:: Up
+[8/11/2024, 12:07:01] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::17.01::diff of avg offer price is::17.12:: Up
+[8/11/2024, 12:07:39] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::7.69::diff of avg offer price is::7.76:: Up
+[8/11/2024, 12:08:20] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::3.34::diff of avg offer price is::3.29:: Sideways based upon bid spread tolerance
+[8/11/2024, 12:08:59] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::3.34::diff of avg offer price is::3.29:: Sideways based upon bid spread tolerance
+[8/11/2024, 12:09:36] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::10.16::diff of avg offer price is::10.16:: Up
+[8/11/2024, 12:10:13] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::10.16::diff of avg offer price is::10.16:: Up
+[8/11/2024, 12:10:52] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::8.89::diff of avg offer price is::8.89:: Up
+[8/11/2024, 12:11:32] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::7.01::diff of avg offer price is::7.05:: Up
+[8/11/2024, 12:12:12] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::7.01::diff of avg offer price is::7.05:: Up
+[8/11/2024, 12:12:51] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::13.69::diff of avg offer price is::13.77:: Up
+[8/11/2024, 12:13:28] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::19.83::diff of avg offer price is::19.85:: Up
+[8/11/2024, 12:14:04] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::19.83::diff of avg offer price is::19.85:: Up
+[8/11/2024, 12:14:40] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::17.94::diff of avg offer price is::17.95:: Up
+[8/11/2024, 12:15:17] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::15.14::diff of avg offer price is::15.1:: Up
+[8/11/2024, 12:22:52] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-14.12::diff of avg offer price is::-14.16:: Down
+[8/11/2024, 12:23:32] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-20.47::diff of avg offer price is::-20.52:: Down
+[8/11/2024, 12:24:15] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-20.47::diff of avg offer price is::-20.52:: Down
+[8/11/2024, 12:24:55] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-24.94::diff of avg offer price is::-24.95:: Down
+[8/11/2024, 12:25:34] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::19.45::diff of avg offer price is::19.49:: Up
+[8/11/2024, 12:26:10] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::19.45::diff of avg offer price is::19.49:: Up
+[8/11/2024, 12:26:47] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::23.85::diff of avg offer price is::23.88:: Up
+[8/11/2024, 12:27:28] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-19.21::diff of avg offer price is::-19.28:: Down
+[8/11/2024, 12:28:07] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-19.21::diff of avg offer price is::-19.28:: Down
+[8/11/2024, 12:28:45] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-21.83::diff of avg offer price is::-21.91:: Down
+[8/11/2024, 12:29:22] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-21.89::diff of avg offer price is::-21.94:: Down
+[8/11/2024, 12:30:00] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-21.89::diff of avg offer price is::-21.94:: Down
+[8/11/2024, 12:30:41] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::21.29::diff of avg offer price is::21.29:: Up
+[8/11/2024, 12:31:18] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-22.63::diff of avg offer price is::-22.66:: Down
+[8/11/2024, 12:31:54] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-22.63::diff of avg offer price is::-22.66:: Down
+[8/11/2024, 12:32:30] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-16.46::diff of avg offer price is::-16.43:: Down
+[8/11/2024, 12:33:09] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-16.46::diff of avg offer price is::-16.43:: Down
+[8/11/2024, 12:33:50] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-16.04::diff of avg offer price is::-16.04:: Down
+[8/11/2024, 12:34:51] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-10.5::diff of avg offer price is::-10.52:: Down
+[8/11/2024, 12:35:44] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-2.34::diff of avg offer price is::-2.37:: Sideways based upon bid spread tolerance
+[8/11/2024, 12:36:21] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-4.65::diff of avg offer price is::-4.66:: Sideways based upon bid spread tolerance
+[8/11/2024, 12:36:58] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-4.65::diff of avg offer price is::-4.66:: Sideways based upon bid spread tolerance
+[8/11/2024, 12:37:37] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-5.71::diff of avg offer price is::-5.73:: Down
+[8/11/2024, 12:38:14] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-5.71::diff of avg offer price is::-5.73:: Down
+[8/11/2024, 12:38:50] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::1.19::diff of avg offer price is::1.16:: Sideways based upon bid spread tolerance
+[8/11/2024, 12:39:26] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-5.26::diff of avg offer price is::-5.26:: Down
+[8/11/2024, 12:40:08] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-5.26::diff of avg offer price is::-5.26:: Down
+[8/11/2024, 12:40:49] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::0.91::diff of avg offer price is::0.92:: Sideways based upon bid spread tolerance
+[8/11/2024, 12:41:30] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::0.22::diff of avg offer price is::0.28:: Sideways based upon bid spread tolerance
+[8/11/2024, 12:42:08] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::0.22::diff of avg offer price is::0.28:: Sideways based upon bid spread tolerance
+[8/11/2024, 12:42:50] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::2.52::diff of avg offer price is::2.54:: Sideways based upon bid spread tolerance
+[8/11/2024, 12:43:27] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::4.08::diff of avg offer price is::4.1:: Sideways based upon bid spread tolerance
+[8/11/2024, 12:44:05] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::4.08::diff of avg offer price is::4.1:: Sideways based upon bid spread tolerance
+[8/11/2024, 12:44:43] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::4.84::diff of avg offer price is::4.81:: Sideways based upon bid spread tolerance
+[8/11/2024, 12:45:20] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::11.66::diff of avg offer price is::11.69:: Up
+[8/11/2024, 12:46:02] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::11.66::diff of avg offer price is::11.69:: Up
+[8/11/2024, 12:46:39] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::3.86::diff of avg offer price is::3.85:: Sideways based upon bid spread tolerance
+[8/11/2024, 12:47:18] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-2.79::diff of avg offer price is::-2.77:: Sideways based upon bid spread tolerance
+[8/11/2024, 12:48:01] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-2.79::diff of avg offer price is::-2.77:: Sideways based upon bid spread tolerance
+[8/11/2024, 12:48:41] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::3.41::diff of avg offer price is::3.37:: Sideways based upon bid spread tolerance
+[8/11/2024, 12:49:21] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-3.01::diff of avg offer price is::-2.94:: Sideways based upon bid spread tolerance
+[8/11/2024, 12:50:00] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-3.01::diff of avg offer price is::-2.94:: Sideways based upon bid spread tolerance
+[8/11/2024, 12:50:46] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-1.07::diff of avg offer price is::-1.06:: Sideways based upon bid spread tolerance
+[8/11/2024, 12:51:26] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::0.62::diff of avg offer price is::0.66:: Sideways based upon bid spread tolerance
+[8/11/2024, 12:52:07] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::0.62::diff of avg offer price is::0.66:: Sideways based upon bid spread tolerance
+[8/11/2024, 12:52:47] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-1.67::diff of avg offer price is::-1.67:: Sideways based upon bid spread tolerance
+[8/11/2024, 12:53:26] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-0.4::diff of avg offer price is::-0.41:: Sideways based upon bid spread tolerance
+[8/11/2024, 12:54:06] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-0.4::diff of avg offer price is::-0.41:: Sideways based upon bid spread tolerance
+[8/11/2024, 12:54:48] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-1.39::diff of avg offer price is::-1.43:: Sideways based upon bid spread tolerance
+[8/11/2024, 12:55:28] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::3.31::diff of avg offer price is::3.25:: Sideways based upon bid spread tolerance
+[8/11/2024, 12:56:09] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::3.31::diff of avg offer price is::3.25:: Sideways based upon bid spread tolerance
+[8/11/2024, 12:56:52] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::3.32::diff of avg offer price is::3.29:: Sideways based upon bid spread tolerance
+[8/11/2024, 12:57:34] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::8.74::diff of avg offer price is::8.76:: Up
+[8/11/2024, 12:58:16] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::2.8::diff of avg offer price is::2.84:: Sideways based upon bid spread tolerance
+[8/11/2024, 12:59:05] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::2.8::diff of avg offer price is::2.84:: Sideways based upon bid spread tolerance
+[8/11/2024, 12:59:54] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::2.37::diff of avg offer price is::2.41:: Sideways based upon bid spread tolerance
+[8/11/2024, 13:00:38] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::8::diff of avg offer price is::7.98:: Up
+[8/11/2024, 13:01:51] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::4.58::diff of avg offer price is::4.61:: Sideways based upon bid spread tolerance
+[8/11/2024, 13:02:41] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::2.93::diff of avg offer price is::2.97:: Sideways based upon bid spread tolerance
+[8/11/2024, 13:03:24] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::5.61::diff of avg offer price is::5.65:: Up
+[8/11/2024, 13:04:05] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::5.61::diff of avg offer price is::5.65:: Up
+[8/11/2024, 13:04:46] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::2.73::diff of avg offer price is::2.73:: Sideways based upon bid spread tolerance
+[8/11/2024, 13:05:26] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::11.33::diff of avg offer price is::11.36:: Up
+[8/11/2024, 13:06:10] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::11.33::diff of avg offer price is::11.36:: Up
+[8/11/2024, 13:06:55] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::7.13::diff of avg offer price is::7.19:: Up
+[8/11/2024, 13:07:44] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::5.34::diff of avg offer price is::5.34:: Up
+[8/11/2024, 13:08:30] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::12.57::diff of avg offer price is::12.58:: Up
+[8/11/2024, 13:09:16] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::15.69::diff of avg offer price is::15.74:: Up
+[8/11/2024, 13:09:59] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::15.69::diff of avg offer price is::15.74:: Up
+[8/11/2024, 13:10:39] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::15.75::diff of avg offer price is::15.76:: Up
+[8/11/2024, 13:11:20] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-16.67::diff of avg offer price is::-16.71:: Down
+[8/11/2024, 13:12:09] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-16.67::diff of avg offer price is::-16.71:: Down
+[8/11/2024, 13:12:57] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-22.23::diff of avg offer price is::-22.29:: Down
+[8/11/2024, 13:13:39] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-22.74::diff of avg offer price is::-22.79:: Down
+[8/11/2024, 13:14:19] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-16.24::diff of avg offer price is::-16.19:: Down
+[8/11/2024, 13:15:04] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-16.24::diff of avg offer price is::-16.19:: Down
+[8/11/2024, 13:16:03] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-15.69::diff of avg offer price is::-15.69:: Down
+[8/11/2024, 13:16:53] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-21.85::diff of avg offer price is::-21.89:: Down
+[8/11/2024, 13:17:34] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-24.18::diff of avg offer price is::-24.16:: Down
+[8/11/2024, 13:18:15] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-24.18::diff of avg offer price is::-24.16:: Down
+[8/11/2024, 13:19:01] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-19.09::diff of avg offer price is::-19.16:: Down
+[8/11/2024, 13:19:51] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-15.66::diff of avg offer price is::-15.74:: Down
+[8/11/2024, 13:20:35] TODAYS TREND multiple strikes::3::For Expiry -2024-11-14::diff avg ce pe bid is::-21.29::diff of avg offer price is::-21.26:: Down
